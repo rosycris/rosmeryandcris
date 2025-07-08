@@ -1,7 +1,6 @@
 # rosmeryandcris
  <html>
 <head>
-<title> QUE ES UNA PAGINA WEB ,SITIOS WEB Y LA DIFERENCIA ENTRE INTERNET Y LA WWW, Y EL FUNCIONAMIENTO DE PROTOCOLOS IP</title>
 
 <meta name="descrition" contet ="QUE ES UNA PAGINA WEB Y SITIO WEB">
 <meta name="Keywords" content="PAGINAS Y SITIOS WEB">
